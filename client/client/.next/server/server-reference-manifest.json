@@ -1,0 +1,22 @@
+{
+  "node": {
+    "7f84ef15107ac5439797c59404734bf16111dc5c86": {
+      "workers": {
+        "app/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Claptop%20caba%5C%5CDesktop%5C%5CLearning_Management%5C%5Cclient%5C%5Cclient%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Cserver-actions.js%22%2C%5B%5B%227f84ef15107ac5439797c59404734bf16111dc5c86%22%2C%22invalidateCacheAction%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/(nondashboard)/search/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Claptop%20caba%5C%5CDesktop%5C%5CLearning_Management%5C%5Cclient%5C%5Cclient%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Cserver-actions.js%22%2C%5B%5B%227f84ef15107ac5439797c59404734bf16111dc5c86%22%2C%22invalidateCacheAction%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/(nondashboard)/search/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "+48PNnxrKaMdeI1QYOSbLRsAD1LIRfWUZK4KYy6Of6A="
+}

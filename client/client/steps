@@ -1,0 +1,25 @@
+npx create-next-app@latest
+---------------------------------install Icons -----------------------------------
+npm i uuid dotenv date-fns framer-motion react-hook-form zod @hookform/resolvers @hello-pangea/dnd --legacy-peer-deps
+npm i -D @types/node @types/uuid --legacy-peer-deps
+------------install shadcn-------------
+npx shadcn@latest init -d
+npx shadcn@latest add accordion avatar button card dialog form input label navigation-menu popover select separator sheet sidebar skeleton switch table tabs textarea toggle tooltip
+--------------------------------------------------------------
+
+use this for animation :  <motion.div>
+use this for display the div style whene louding : lending_skeleton
+------------Ressources link ------------
+bdd schema : https://miro.com/app/board/uXjVLDSd2p0=/
+video link : https://www.youtube.com/watch?v=61vSIrg70xM
+
+
+-------------AWS command ---------------------------
+C:\Users\laptop caba>set AWS_ACCESS_KEY_ID=fakeMyKeyId
+
+C:\Users\laptop caba>set AWS_SECRET_ACCESS_KEY=fakeSecretAccessKey
+
+C:\Users\laptop caba>aws dynamodb list-tables --endpoint-url http://localhost:8000 --region us-west-2
+
+java -Djava.library.path=D:\dynamodb-local\DynamoDBLocal_lib -jar D:\dynamodb-local\DynamoDBLocal.jar -sharedDb
+
