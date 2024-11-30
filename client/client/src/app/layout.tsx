@@ -24,7 +24,6 @@ export default function RootLayout({
 }>) {
   return (
     <ClerkProvider
-    frontendApi={process.env.NEXT_PUBLIC_CLERK_FRONTEND_API}
       apiKey={process.env.CLERK_SECRET_KEY}
       >
       <html lang="en">

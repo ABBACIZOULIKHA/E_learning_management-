@@ -167,7 +167,7 @@ const ChapterModal = () => {
               <Button type="button" variant="outline" onClick={onClose}>
                 Cancel
               </Button>
-              <Button type="submit" className="bg-primary-700">
+              <Button type="submit" className="bg-orange-600">
                 Save
               </Button>
             </div>

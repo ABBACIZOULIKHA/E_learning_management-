@@ -53,10 +53,10 @@ const config = {
   				ring: 'hsl(var(--sidebar-ring))'
   			},
   			customgreys: {
-  				primarybg: '#1B1C22',
+  				primarybg: '#010832',
   				secondarybg: '#25262F',
   				darkGrey: '#17181D',
-  				darkerGrey: '#3d3d3d',
+  				darkerGrey: '#414141',
   				dirtyGrey: '#6e6e6e'
   			},
   			primary: {
